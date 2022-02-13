@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oladimeji
-- 👀 I’m interested in AI | ML | DL
+- 👀 I’m interested in AI | ML | AI Mobile application
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on Jarvis
 - 📫 How to reach me +2349030933281
