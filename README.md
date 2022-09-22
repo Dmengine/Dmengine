@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oladimeji
-- 👀 I’m interested in AI | ML | AI Mobile application
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on Jarvis
+- 👀 I’m interested in Blockchain | ML | Reactjs Website
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on DApp
 - 📫 How to reach me +2349030933281
 
 <!---
