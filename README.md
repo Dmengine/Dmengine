@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oladimeji
-- 👀 I’m interested in Blockchain | ML | Reactjs Website
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Blockchain | Reactjs | Javascript
+- 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on DApp
 - 📫 How to reach me +2349030933281
 
