@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oladimeji
-- 👀 I’m interested in Blockchain | | Nextjs | Reactjs | Javascript
+- 👀 I’m interested in Blockchain | Nextjs | Reactjs | Javascript
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on DApp
 - 📫 How to reach me +2349030933281
