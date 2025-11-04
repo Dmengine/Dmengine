@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oladimeji
 - 👀 I’m interested in Blockchain | Nextjs | Reactjs | React Native | Javascript | Node.js | Python | Django
-- 💞️ I’m looking to collaborate on DApp
+- 💞️ I’m looking to collaborate on DApp, Crypto wallet app and Fintect app
 - 📫 How to reach me +2349030933281
 
 <!---
